@@ -27,8 +27,8 @@ public class ConfigFileReader {
 		}		
 	}
 
-	public String getKey(){
-		String key = properties.getProperty("Key.key");
+	public String getKeyType(){
+		String key = properties.getProperty("Key.type");
 		if(key != null) return key;
 		else throw new RuntimeException("key not specified in the Configuration.properties file.");		
 	}
