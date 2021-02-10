@@ -103,44 +103,24 @@ public class TestWeatherApi {
                 .extract().response();
 
 		Assert.assertEquals(200, response.statusCode());
-		//softAssert.assertEquals(external_id, response.jsonPath().getString("external_id"));
-		//softAssert.assertEquals(name, response.jsonPath().getString("name"));
-		//softAssert.assertEquals(latitude, response.jsonPath().getString("latitude"));
-		//softAssert.assertEquals(longitude, response.jsonPath().getString("longitude"));
-		//softAssert.assertEquals(altitude, response.jsonPath().getString("altitude"));
 		
-		/*
-		//delete this station
-		String newStationId = response.jsonPath().getString("ID");
+		String strExternal_id = response.jsonPath().getString("external_id");
+		Assert.assertTrue(strExternal_id.contains(external_id));
 		
-		Response response2 = given()
-                .header("Content-type", "application/json")
-                .when()
-                .delete("/stations/"+newStationId+"?"+KeyType+"=" + KeyValue)
-                .then()
-                .extract().response();
-
-		softAssert.assertEquals(204, response2.statusCode());
+		String strName = response.jsonPath().getString("name");
+		Assert.assertTrue(strName.contains(name));
 		
-		//Again query the station should receive 404
-		Response response3 = given()
-                .contentType(ContentType.JSON)
-                .when()
-                .get("/stations?"+KeyType+"=" + KeyValue + "&id="+newStationId)
-                .then()
-                .extract().response();
-
-		softAssert.assertEquals(404200, response3.statusCode());
-		*/
+		String strLatitude = response.jsonPath().getString("latitude");
+		Assert.assertTrue(strLatitude.contains(latitude));
+		
+		String strLongitude = response.jsonPath().getString("longitude");
+		Assert.assertTrue(strLongitude.contains(longitude));
+		
+		String strAltitude = response.jsonPath().getString("altitude");
+		Assert.assertTrue(strAltitude.contains(altitude));
+		
         softAssert.assertAll();
 	    //throw new PendingException();
         Log.startTestCase("Query_the_new_created_station - Done.");
 	}
-
-	
-	//************************************
-
-	
-	
-	
 }
