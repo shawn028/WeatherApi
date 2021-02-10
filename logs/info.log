@@ -62,3 +62,59 @@
 [01:38:42:576] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - Done.  Testing begins ------------------
 [01:38:43:282] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - starts running.  Testing begins ------------------
 [01:38:43:889] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - Done.  Testing begins ------------------
+[01:44:51:599] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Checking if the url is running.  Testing begins ------------------
+[01:44:52:447] [INFO] - org.weather.basic.Log.endTestCase(Log.java:16) - ------------------ Checking if the url is running.- Done, the ApiBaseUrl is:http://api.openweathermap.org/data/3.0  Testing ends ---------------
+[01:44:52:453] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Register a weather station without an API key starts running.  Testing begins ------------------
+[01:44:54:274] [INFO] - org.weather.basic.Log.endTestCase(Log.java:16) - ------------------ Register a weather station without an API key.- Done  Testing ends ---------------
+[01:44:55:948] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - starts running.  Testing begins ------------------
+[01:44:56:625] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - Done.  Testing begins ------------------
+[01:44:57:306] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - starts running.  Testing begins ------------------
+[01:44:57:929] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - Done.  Testing begins ------------------
+[10:05:26:887] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Checking if the url is running.  Testing begins ------------------
+[10:05:27:697] [INFO] - org.weather.basic.Log.endTestCase(Log.java:16) - ------------------ Checking if the url is running.- Done, the ApiBaseUrl is:http://api.openweathermap.org/data/3.0  Testing ends ---------------
+[10:05:27:704] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Register a weather station without an API key starts running.  Testing begins ------------------
+[10:05:29:130] [INFO] - org.weather.basic.Log.endTestCase(Log.java:16) - ------------------ Register a weather station without an API key.- Done  Testing ends ---------------
+[10:05:30:392] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - starts running.  Testing begins ------------------
+[10:05:31:032] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - Done.  Testing begins ------------------
+[10:05:31:713] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - starts running.  Testing begins ------------------
+[10:05:32:285] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - Done.  Testing begins ------------------
+[10:19:46:419] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Checking if the url is running.  Testing begins ------------------
+[10:19:46:907] [INFO] - org.weather.basic.Log.endTestCase(Log.java:16) - ------------------ Checking if the url is running.- Done, the ApiBaseUrl is:http://api.openweathermap.org/data/3.0  Testing ends ---------------
+[10:19:46:912] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Register a weather station without an API key starts running.  Testing begins ------------------
+[10:19:48:129] [INFO] - org.weather.basic.Log.endTestCase(Log.java:16) - ------------------ Register a weather station without an API key.- Done  Testing ends ---------------
+[10:19:49:331] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - starts running.  Testing begins ------------------
+[10:19:49:963] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - Done.  Testing begins ------------------
+[10:19:50:613] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - starts running.  Testing begins ------------------
+[10:19:51:182] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - Done.  Testing begins ------------------
+[10:21:40:873] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Checking if the url is running.  Testing begins ------------------
+[10:21:41:357] [INFO] - org.weather.basic.Log.endTestCase(Log.java:16) - ------------------ Checking if the url is running.- Done, the ApiBaseUrl is:http://api.openweathermap.org/data/3.0  Testing ends ---------------
+[10:21:41:362] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Register a weather station without an API key starts running.  Testing begins ------------------
+[10:21:42:568] [INFO] - org.weather.basic.Log.endTestCase(Log.java:16) - ------------------ Register a weather station without an API key.- Done  Testing ends ---------------
+[10:21:43:764] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - starts running.  Testing begins ------------------
+[10:21:44:388] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - Done.  Testing begins ------------------
+[10:21:45:014] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - starts running.  Testing begins ------------------
+[10:21:45:598] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - Done.  Testing begins ------------------
+[10:24:40:437] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Checking if the url is running.  Testing begins ------------------
+[10:24:40:927] [INFO] - org.weather.basic.Log.endTestCase(Log.java:16) - ------------------ Checking if the url is running.- Done, the ApiBaseUrl is:http://api.openweathermap.org/data/3.0  Testing ends ---------------
+[10:24:40:933] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Register a weather station without an API key starts running.  Testing begins ------------------
+[10:24:42:256] [INFO] - org.weather.basic.Log.endTestCase(Log.java:16) - ------------------ Register a weather station without an API key.- Done  Testing ends ---------------
+[10:24:43:435] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - starts running.  Testing begins ------------------
+[10:24:44:042] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - Done.  Testing begins ------------------
+[10:24:44:675] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - starts running.  Testing begins ------------------
+[10:24:45:258] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - Done.  Testing begins ------------------
+[10:33:48:534] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Checking if the url is running.  Testing begins ------------------
+[10:33:49:047] [INFO] - org.weather.basic.Log.endTestCase(Log.java:16) - ------------------ Checking if the url is running.- Done, the ApiBaseUrl is:http://api.openweathermap.org/data/3.0  Testing ends ---------------
+[10:33:49:054] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Register a weather station without an API key starts running.  Testing begins ------------------
+[10:33:50:326] [INFO] - org.weather.basic.Log.endTestCase(Log.java:16) - ------------------ Register a weather station without an API key.- Done  Testing ends ---------------
+[10:33:51:511] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - starts running.  Testing begins ------------------
+[10:33:52:134] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - Done.  Testing begins ------------------
+[10:33:52:781] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - starts running.  Testing begins ------------------
+[10:33:53:372] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - Done.  Testing begins ------------------
+[11:07:10:743] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Checking if the url is running.  Testing begins ------------------
+[11:07:11:306] [INFO] - org.weather.basic.Log.endTestCase(Log.java:16) - ------------------ Checking if the url is running.- Done, the ApiBaseUrl is:http://api.openweathermap.org/data/3.0  Testing ends ---------------
+[11:07:11:312] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Register a weather station without an API key starts running.  Testing begins ------------------
+[11:07:12:639] [INFO] - org.weather.basic.Log.endTestCase(Log.java:16) - ------------------ Register a weather station without an API key.- Done  Testing ends ---------------
+[11:07:13:852] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - starts running.  Testing begins ------------------
+[11:07:14:455] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - Done.  Testing begins ------------------
+[11:07:15:091] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - starts running.  Testing begins ------------------
+[11:07:15:688] [INFO] - org.weather.basic.Log.startTestCase(Log.java:11) - ------------------ Query_the_new_created_station - Done.  Testing begins ------------------
